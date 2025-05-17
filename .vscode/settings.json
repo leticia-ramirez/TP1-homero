@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "plutonio.h": "c",
+        "stdio.h": "c"
+    }
+}
